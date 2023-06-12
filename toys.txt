@@ -1,0 +1,3 @@
+C1,Small car,18,70
+B1,Small bear,17,55
+C2,Medium car,8,35
